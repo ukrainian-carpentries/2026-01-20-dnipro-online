@@ -45,7 +45,6 @@ Check DC curriculum
 
 {% comment %}
 Перевірте навчальний план SWC
-{% endcomment %}
 
 {% if site.carpentry == "swc" %}
 {% unless site.curriculum == "swc-inflammation" or site.curriculum == "swc-gapminder" %}
@@ -54,6 +53,7 @@ Check DC curriculum
 </div>
 {% endunless %}
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 EVENTBRITE
