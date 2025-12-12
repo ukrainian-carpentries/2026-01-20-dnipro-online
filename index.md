@@ -165,7 +165,7 @@ href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data
 {% endcomment %}
 {% if page.humandate %}
 <p id="when">
-  <strong>Де:</strong>
+  <strong>Коли:</strong>
   {{page.humandate}}.
   {% include workshop_calendar.html %}
 </p>
