@@ -389,10 +389,10 @@ https://pad.carpentries.org/YYYY-MM-DD-site
 Якщо ви не використовуєте Zoom для свого онлайн-семінару, відредагуйте файл 
 `_includes/install_instructions/videoconferencing.html`
 , щоб додати відповідні інструкції зі встановлення.
-{% endcomment %}
 {% if online != "false" %}
 {% include install_instructions/videoconferencing.html %}
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 Це інструкція з встановлення інструментів, які використовуються під час семінару.
