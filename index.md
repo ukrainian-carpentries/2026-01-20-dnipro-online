@@ -81,7 +81,7 @@ EVENTBRITE
 {% endcomment %}
 
 <p>
-Цей семінар є частиною програми Зимової школи із системного аналізу та штучного інтелекту, яку проводить Національний технічний університет “Дніпровська пoлiтехнікa“. 
+Цей семінар є частиною програми <a href="https://sau.nmu.org.ua/ua/school_analysis.intelligence/2026/winschool26.php">Зимової школи із системного аналізу та штучного інтелекту</a>, яку проводить <a href="https://sau.nmu.org.ua/ua/">Кафедра системного аналізу та управління</a> <a href="https://nmu.org.ua/"Національного технічного університету “Дніпровська пoлiтехнікa“</a>. 
 Він проводиться учасниками <a href="https://ukrainian-carpentries.github.io/">Української спільноти The Carpentries</a>. 
 </p>
 
@@ -259,7 +259,7 @@ href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data
 
 <p id="who-can-attend">
     <strong>Реєстрація:</strong>
-    Цей семінар відкритий для зареєстрованих учасників Зимової школи із системного аналізу та штучного інтелекту.
+    Цей семінар відкритий для зареєстрованих учасників <a href="https://sau.nmu.org.ua/ua/school_analysis.intelligence/2026/winschool26.php">Зимової школи із системного аналізу та штучного інтелекту</a>.
 </p>
 
 
