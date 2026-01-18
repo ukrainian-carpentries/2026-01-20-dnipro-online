@@ -391,6 +391,11 @@ https://pad.carpentries.org/YYYY-MM-DD-site
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Проблеми конфігурації та рішення</a>.
 </p>
 
+<p>
+  Окрім того, ви можете скористуватися новішіми версіями інструкцій з налаштування, які знаходяться у 
+  <a href="https://carpentries.github.io/workshop-template/#setup">англійськомовній версії шаблону сторінки семінару The Carpentries</a>.
+</p>
+
 {% comment %}
 Для онлайн-семінарів у розділі нижче надано:
 - інструкцію по встановленню клієнта Zoom
